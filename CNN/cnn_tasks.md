@@ -1,3 +1,4 @@
+## Oct. 12 - Oct. 19
 ### Yao 
 - [ ] Incorporate into classification model (Markdown document is written with listed research on how to obtain dog breeds.) #52 (epic 1)
 
@@ -11,4 +12,16 @@
 - [ ] Server set up
 
 ### Cassie
-- [ ] 
+no task found in the issues
+
+## Oct. 19 - Oct. 26
+### Baylie and Karen
+- [ ] Set up REST API in Android Studio (missing a test case)
+- [ ] Comments to android app code for the UI design
+
+### Jacob and Yao
+- [ ] Find a way to train a classification model (missing a test case)
+- [ ] Compare different models (missing a test case)
+
+### Cassie
+no task found in the issues
