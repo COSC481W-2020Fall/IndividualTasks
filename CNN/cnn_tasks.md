@@ -24,4 +24,4 @@ no task found in the issues
 - [ ] Compare different models (missing a test case)
 
 ### Cassie
-no task found in the issues
+- [ ] Create EC2 bucket (missing a test case)
