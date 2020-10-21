@@ -6,6 +6,7 @@
 ### Ben
 - [ ] Add custom scripts to AWS server to support full functionality of data page
 - [ ] Bug: Main loop is not in main thread
+- [ ] Unit tests for blog [issue](https://github.com/COSC481W-2020Fall/cosc481w-581-2020-fall-datatitans/issues/143)
 
 ### Jeff
 - [ ] Add search capability to speed country retrieval when 200 are available
@@ -16,6 +17,7 @@
 
 ### Ryan
 - [ ] Improve scaling on data page
+- [ ] Unit test for chart selection [issue](https://github.com/COSC481W-2020Fall/cosc481w-581-2020-fall-datatitans/issues/144)
 
 ### Chisulo
 - [ ] Add custom scripts to AWS server to support full functionality of data page
