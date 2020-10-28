@@ -1,4 +1,25 @@
 ## week of Oct. 26 - Nov. 2
+### Brian
+- [ ] Display tables on data page
+- [ ] Additional charts (esp. per capita)
+
+### Emmet
+- [ ] Display tables on data page
+- [ ] 
+
+### Jeff
+- [ ] Additional charts (esp. per capita)
+
+### Chisulo
+- [ ] Additional charts (esp. per capita)
+- [ ] Add Comment functionality to Blog page
+
+### Ryan
+- [ ] Add Comment functionality to Blog page
+- [ ] Add weekly meeting notes to Blog page
+
+### Ben
+- [ ] Add weekly meeting notes to Blog page
 
 ## week of Oct. 19 - Oct. 26
 ### Brian
