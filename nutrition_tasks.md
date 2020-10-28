@@ -15,8 +15,8 @@
 - [ ] Recipe display view
 
 ### Jalen
-- [ ] Add the search bar back to the navigation bar
-- [ ] Link radio buttons to search bar that'll allow you to choose either a recipe or food search
+- [ ] Add the search bar back to the navigation bar (missing test cases)
+- [ ] Link radio buttons to search bar that'll allow you to choose either a recipe or food search (missing test cases)
 
 ## Week of Oct. 19 to Oct. 26
 ### Bryce and Jalen
