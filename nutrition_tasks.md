@@ -1,3 +1,23 @@
+## Week of Oct. 26 to Nov. 2
+### Michael
+- [ ] Update metric/imperial conversion
+- [ ] Update profile form includes fields in user account model (email, first name, last name)
+- [ ] When searching for foods/recipes, the results are displayed in pages if there are over a certain amount
+
+### Athena and Tsion
+- [ ] List of daily logs page
+- [ ] Details of daily log page
+- [ ] Edit meal log page
+
+### Bryce and John
+- [ ] Recipe update view
+- [ ] Recipe model
+- [ ] Recipe display view
+
+### Jalen
+- [ ] Add the search bar back to the navigation bar
+- [ ] Link radio buttons to search bar that'll allow you to choose either a recipe or food search
+
 ## Week of Oct. 19 to Oct. 26
 ### Bryce and Jalen
 - [x] Recipe creation view
