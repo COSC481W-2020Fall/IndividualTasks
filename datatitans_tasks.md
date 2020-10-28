@@ -5,7 +5,6 @@
 
 ### Emmet
 - [ ] Display tables on data page
-- [ ] 
 
 ### Jeff
 - [ ] Additional charts (esp. per capita)
