@@ -1,3 +1,12 @@
+## Oct. 26 - Nov. 2
+### Jacob and Yao
+- [ ] Upload Code to Cloud
+- [ ] Create processing items (need some explanation)
+
+### Baylie and Karen
+- [ ] Display breed of dog in the mobile app
+- [ ] Test REST API integration with backend/AWS
+
 ## Oct. 19 - Oct. 26
 ### Baylie and Karen
 - [x] Set up REST API in Android Studio (missing a test case)
