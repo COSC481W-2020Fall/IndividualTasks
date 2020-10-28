@@ -1,3 +1,19 @@
+## week of Oct. 26 - Nov. 2
+### Kris
+- [ ] When 
+
+### Tristan
+- [ ] Decrease unnecessary inputs to page
+
+### Domenic
+- [ ] Move the project to an AWS server
+
+### Alex
+- [ ] Generate initial statistics (win rate, card usage, etc.) to prepare for displaying them to the user
+
+### Kris
+- [ ] 
+
 ## week of Oct. 19 - Oct .26
 ### Domenic
 - [x] Home page will have a button for all 3 of our web pages.
