@@ -1,6 +1,9 @@
 ## week of Oct. 26 - Nov. 2
 ### Kris
-- [ ] When 
+- [ ] Set up a method to add a new deck to users own list of decks to database
+- [ ] Create an id for new users
+- [ ] Create a new user table if not already created
+- [ ] Set up a method to grab that deck list by user id
 
 ### Tristan
 - [ ] Decrease unnecessary inputs to page
