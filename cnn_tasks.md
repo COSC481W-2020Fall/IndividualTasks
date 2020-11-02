@@ -1,15 +1,15 @@
 ## Oct. 26 - Nov. 2
 ### Jacob and Yao
-- [ ] Upload Code to Cloud
-- [ ] Create processing items (need some explanation)
-- [ ] Configure EC2 Instance: set up flask python, start script for running model (restart everyday)
+- [x] Upload Code to Cloud
+- [x] Create processing items (need some explanation)
+- [x] Configure EC2 Instance: set up flask python, start script for running model (restart everyday)
 
 ### Baylie and Karen
-- [ ] Display breed of dog in the mobile app
-- [ ] Test REST API integration with backend/AWS
+- [x] Display breed of dog in the mobile app
+- [x] Test REST API integration with backend/AWS
 
 ### Cassie
-- [ ] Configure EC2 Instance: set up flask python, start script for running model (restart everyday)
+- [x] Configure EC2 Instance: set up flask python, start script for running model (restart everyday)
 
 ## Oct. 19 - Oct. 26
 ### Baylie and Karen
