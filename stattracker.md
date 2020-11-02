@@ -1,21 +1,18 @@
 ## week of Oct. 26 - Nov. 2
 ### Kris
-- [ ] Set up a method to add a new deck to users own list of decks to database
-- [ ] Create an id for new users
-- [ ] Create a new user table if not already created
-- [ ] Set up a method to grab that deck list by user id
+- [x] Set up a method to add a new deck to users own list of decks to database
+- [x] Create an id for new users
+- [x] Create a new user table if not already created
+- [x] Set up a method to grab that deck list by user id
 
 ### Tristan
-- [ ] Decrease unnecessary inputs to page
+- [x] Decrease unnecessary inputs to page
 
 ### Domenic
 - [ ] Move the project to an AWS server
 
 ### Alex
 - [ ] Generate initial statistics (win rate, card usage, etc.) to prepare for displaying them to the user
-
-### Kris
-- [ ] 
 
 ## week of Oct. 19 - Oct .26
 ### Domenic
