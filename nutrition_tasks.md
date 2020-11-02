@@ -1,22 +1,22 @@
 ## Week of Oct. 26 to Nov. 2
 ### Michael
-- [ ] Update metric/imperial conversion
-- [ ] Update profile form includes fields in user account model (email, first name, last name)
-- [ ] When searching for foods/recipes, the results are displayed in pages if there are over a certain amount
+- [x] Update metric/imperial conversion
+- [x] Update profile form includes fields in user account model (email, first name, last name)
+- [x] When searching for foods/recipes, the results are displayed in pages if there are over a certain amount
 
 ### Athena and Tsion
-- [ ] List of daily logs page
-- [ ] Details of daily log page
-- [ ] Edit meal log page
+- [x] List of daily logs page
+- [x] Details of daily log page
+- [x] Edit meal log page
 
 ### Bryce and John
-- [ ] Recipe update view
-- [ ] Recipe model
-- [ ] Recipe display view
+- [x] Recipe update view
+- [x] Recipe model
+- [x] Recipe display view
 
 ### Jalen
-- [ ] Add the search bar back to the navigation bar (missing test cases)
-- [ ] Link radio buttons to search bar that'll allow you to choose either a recipe or food search (missing test cases)
+- [x] Add the search bar back to the navigation bar (missing test cases)
+- [x] Link radio buttons to search bar that'll allow you to choose either a recipe or food search (missing test cases)
 
 ## Week of Oct. 19 to Oct. 26
 ### Bryce and Jalen
