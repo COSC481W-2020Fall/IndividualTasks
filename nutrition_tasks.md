@@ -1,6 +1,7 @@
 ## Week of Nov. 2 - Nov. 9
 ### John
 - [ ] fix database values
+- [ ] ongoing: add more foods to database
 
 ### Michael
 - [ ] Public user-created recipes can be searched and viewed by other users 
