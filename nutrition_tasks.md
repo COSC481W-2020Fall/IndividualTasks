@@ -4,19 +4,19 @@
 - [ ] ongoing: add more foods to database
 
 ### Bryce
-- Recipe update view
+- [ ] Recipe update view
   - [ ] User can add new ingredients to an existing recipe
   - [ ] User can remove existing ingredients from an existing recipe
   - [ ] User can change the portions of an existing ingredient in an existing recipe
 
-- Recipe detail view
+- [ ] Recipe detail view
   - [ ] Make sure that the nutrition information is calculated correctly
   - [ ] Figure out a better looking page layout
 
-- Recipe list view
+- [ ] Recipe list view
    - [ ] Some recipe information shown in list view
 
-- Recipe delete view
+- [ ] Recipe delete view
    - [ ] Either allow users to delete recipes without leaving their current page, or make the delete recipe template look presentable
 
 
