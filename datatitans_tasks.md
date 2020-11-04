@@ -1,3 +1,7 @@
+## week of Nov. 2 - Nov. 9
+all:
+- [ ] Install and run postgresSQL via Google Cloud SDK and Google Cloud Proxy (All)
+
 ## week of Oct. 26 - Nov. 2
 ### Brian
 - [x] Display tables on data page
