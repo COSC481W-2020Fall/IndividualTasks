@@ -1,3 +1,13 @@
+## week of Nov. 2 - Nov. 9
+### Tristan
+- [ ] Condense current deck to show number of copies of each card.
+
+### Demenic
+- [ ] Clean up Data Input Page so that you can add champions one at a time instead of having them there all on load.
+
+### Kris
+- [ ] Set up the database so it's not modified locally? (Look into moving it to mySql?)
+
 ## week of Oct. 26 - Nov. 2
 ### Kris
 - [x] Set up a method to add a new deck to users own list of decks to database
