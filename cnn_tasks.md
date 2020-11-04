@@ -1,3 +1,18 @@
+## Nov. 2 - Nov. 9
+###  Junyao
+- [ ] training a new model with hyperparameter tuner (document difference about models)
+
+### Jacob
+- [ ] remove unneeded files
+- [ ] compact documents into one file
+- [ ] sort files more integently
+
+### Karen
+- [ ] add comments to android app code for the UI design
+
+### Baylie
+- [ ] Display image of the dog in the mobile app
+
 ## Oct. 26 - Nov. 2
 ### Jacob and Yao
 - [x] Upload Code to Cloud
