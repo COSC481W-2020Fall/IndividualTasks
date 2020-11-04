@@ -8,6 +8,10 @@
 ### Kris
 - [ ] Set up the database so it's not modified locally? (Look into moving it to mySql?)
 
+### Alex
+- [ ] Have interactive elements to allow the user to page between decks
+- [ ] Show graphs for multiple stats *if needed*
+
 ## week of Oct. 26 - Nov. 2
 ### Kris
 - [x] Set up a method to add a new deck to users own list of decks to database
