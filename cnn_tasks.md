@@ -3,9 +3,6 @@
 - [ ] training a new model with hyperparameter tuner (document difference about models)
 
 ### Jacob
-- [ ] remove unneeded files
-- [ ] compact documents into one file
-- [ ] sort files more integently
 - [ ] Make REST API integration work with backend/AWS
 
 ### Karen
@@ -19,6 +16,9 @@
 
 ### Cassie
 - [ ] Make REST API integration work with backend/AWS
+- [ ] remove unneeded files
+- [ ] compact documents into one file
+- [ ] sort files more integently
 
 ## Oct. 26 - Nov. 2
 ### Jacob and Yao
