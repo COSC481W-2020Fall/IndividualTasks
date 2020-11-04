@@ -1,3 +1,30 @@
+## Week of Nov. 2 - Nov. 9
+### John
+- [ ] fix database values
+
+### Michael
+- [ ] Public user-created recipes can be searched and viewed by other users 
+  - [ ] RecipePreset model removed
+  - [ ] Option on create/edit recipe pages to make a recipe public or private
+  - [ ] Searching recipes searches for recipes created by current user and recipes flagged as public
+  - [ ] Users not able to edit or delete other user's recipes
+  
+### Athena
+- [ ] Finish log updating functionality
+  - [ ] Delete foods from log
+  - [ ] Errors display properly
+  
+### Tsion
+- [ ] Add Pi-chart in admin to visualize nutrition fact
+  - [ ] convert the sodium and cholesterol units to gram to match
+  - [ ] display the food nutrition fact in pi-chart in admin page for visualization
+- [ ] make the page look more clean and organized
+
+### Jalen
+- [ ] Update UI
+  - [ ] Alter certain html elements to help improve the ui
+  - [ ] add dropdown menu's to stacked columns
+
 ## Week of Oct. 26 to Nov. 2
 ### Michael
 - [x] Update metric/imperial conversion
