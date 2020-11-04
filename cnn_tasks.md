@@ -6,12 +6,19 @@
 - [ ] remove unneeded files
 - [ ] compact documents into one file
 - [ ] sort files more integently
+- [ ] Make REST API integration work with backend/AWS
 
 ### Karen
 - [ ] add comments to android app code for the UI design
+- [ ] Make REST API integration work with backend/AWS
+- [ ] Display image of the dog in the mobile app
 
 ### Baylie
 - [ ] Display image of the dog in the mobile app
+- [ ] Make REST API integration work with backend/AWS
+
+### Cassie
+- [ ] Make REST API integration work with backend/AWS
 
 ## Oct. 26 - Nov. 2
 ### Jacob and Yao
