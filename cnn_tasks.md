@@ -6,7 +6,6 @@
 - [ ] Make REST API integration work with backend/AWS
 
 ### Karen
-- [ ] add comments to android app code for the UI design
 - [ ] Make REST API integration work with backend/AWS
 - [ ] Display image of the dog in the mobile app
 
