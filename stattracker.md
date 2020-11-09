@@ -1,12 +1,12 @@
 ## week of Nov. 2 - Nov. 9
 ### Tristan
-- [ ] Condense current deck to show number of copies of each card.
+- [x] Condense current deck to show number of copies of each card.
 
 ### Demenic
-- [ ] Clean up Data Input Page so that you can add champions one at a time instead of having them there all on load.
+- [x] Clean up Data Input Page so that you can add champions one at a time instead of having them there all on load.
 
 ### Kris
-- [ ] Set up the database so it's not modified locally? (Look into moving it to mySql?)
+- [x] Set up the database so it's not modified locally? (Look into moving it to mySql?)
 
 ### Alex
 - [ ] Have interactive elements to allow the user to page between decks
