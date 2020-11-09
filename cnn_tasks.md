@@ -6,12 +6,12 @@
 - [ ] Make REST API integration work with backend/AWS
 
 ### Karen
-- [ ] Make REST API integration work with backend/AWS
-- [ ] Display image of the dog in the mobile app
+- [x] Make REST API integration work with backend/AWS
+- [x] Display image of the dog in the mobile app
 
 ### Baylie
-- [ ] Display image of the dog in the mobile app
-- [ ] Make REST API integration work with backend/AWS
+- [x] Display image of the dog in the mobile app
+- [x] Make REST API integration work with backend/AWS
 
 ### Cassie
 - [ ] Make REST API integration work with backend/AWS
