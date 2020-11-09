@@ -3,7 +3,7 @@
 - [ ] training a new model with hyperparameter tuner (document difference about models)
 
 ### Jacob
-- [ ] Make REST API integration work with backend/AWS
+- [x] Make REST API integration work with backend/AWS
 
 ### Karen
 - [x] Make REST API integration work with backend/AWS
@@ -14,7 +14,7 @@
 - [x] Make REST API integration work with backend/AWS
 
 ### Cassie
-- [ ] Make REST API integration work with backend/AWS
+- [x] Make REST API integration work with backend/AWS
 - [ ] remove unneeded files
 - [ ] compact documents into one file
 - [ ] sort files more integently
