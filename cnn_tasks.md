@@ -1,4 +1,7 @@
 ## Nov. 9 - Nov. 16
+### Jacob
+- [ ] small maintenance tasks for flask (so that the server is up and running)
+
 ###  Junyao
 - [ ] using ImageAI (Documentation about the result of using ImageAI)
 
