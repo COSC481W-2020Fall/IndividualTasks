@@ -26,7 +26,7 @@
 - [ ] Move the project to an AWS server
 
 ### Alex
-- [ ] Generate initial statistics (win rate, card usage, etc.) to prepare for displaying them to the user
+- [x] Generate initial statistics (win rate, card usage, etc.) to prepare for displaying them to the user
 
 ## week of Oct. 19 - Oct .26
 ### Domenic
