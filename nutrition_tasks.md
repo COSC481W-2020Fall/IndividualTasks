@@ -1,3 +1,45 @@
+## Week of Nov. 9 - Nov. 11
+### Bryce
+- [ ] Quality of life changes to recipes and foods
+  - [ ] Foods show a list of recipes which contain them as an ingredient (In the nutrifacts view, include a list of public recipes and personally owned recipes which contain that food as an ingredient)
+- [ ] Recipe cloning
+  - [ ] Have button in detail template to clone an existing recipe
+  - [ ] Have functionality to clone an existing recipe
+  - [ ] If it's a public recipe, the resulting clone is a private recipe
+- [ ] Recipe form validation
+  - [ ] Validate so it doesn't create/update if the new version has two of the same ingredient
+  - [ ] Make it so that it isn't hard-coded which rows are cloned by the Add another Food button
+- [ ] Personal Recipe List
+  - [ ] Shows number of ingredients of each item
+  - [ ] Shows calories per serving of each item
+- [ ] Detail view's delete button should have an "are you sure?" popup
+
+### Athena
+Incorporate recipes into logs:
+- [ ] Add recipes to log functionality:
+    - [ ] Add MealRecipe table (models, migrations, db)
+    - [ ] Add RecipeAutocomplete (views, urls)
+    - [ ] Update get_total() for MealLog and DailyLog (models)
+    - [ ] Update LogForm (forms)
+    - [ ] Update LogCreate and LogUpdate (views)
+    - [ ] Update JavaScript (templates)
+        - [ ] Add and remove recipe fields
+        - [ ] Change from hardcoded rows to parentElement
+- [ ] When creating log, must have either at least one food or at least one recipe (forms, clean())
+
+### Michael
+- [ ] Recipe can have multiple allergies or diets attached to it
+- [ ] Recipe search displays multiple allergies/diets correctly
+- [ ] Can filter searches based on allergy/diet
+- [ ] Search filter defaults to allergy/diet preferences attached to current user's profile
+
+### Jalen
+- [ ] address cropping issues created by the new navigation bar
+- [ ] update tables in the search pages
+
+### Tsion
+- [ ] Add pi-chart to admin page
+
 ## Week of Nov. 2 - Nov. 9
 ### John
 - [ ] fix database values
