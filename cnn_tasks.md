@@ -1,3 +1,16 @@
+## Nov. 9 - Nov. 16
+###  Junyao
+- [ ] using ImageAI (Documentation about the result of using ImageAI)
+
+### Cassie
+- [ ] remove unneeded files
+- [ ] compact documents into one file
+- [ ] sort files more integently
+
+### Baylie and Karen
+- [ ] Display breed of dog in the mobile app (When a picture is taken within the mobile app it will return, the breed of the dog in the area we created.)
+- [ ] Implement UI Features Outlined in Wireframe
+
 ## Nov. 2 - Nov. 9
 ###  Junyao
 - [ ] training a new model with hyperparameter tuner (document difference about models)
