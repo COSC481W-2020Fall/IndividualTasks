@@ -1,12 +1,12 @@
 ## week of Nov. 9 - Nov. 16
 Chisulo:
-- [ ] Troubleshoot and fix issue with some country data not displaying in charts on AWS/SQLite platform
-- [ ] Troubleshoot and fix issue with some country data not displaying in charts on Local platform 
+- [x] Troubleshoot and fix issue with some country data not displaying in charts on AWS/SQLite platform
+- [x] Troubleshoot and fix issue with some country data not displaying in charts on Local platform 
 
 Jeff:
-- [ ] Research implementation / Add heat mapping
-- [ ] Have chosen libraries and functions for machine learning
-- [ ] Have demonstrated a proof of concept with ML algorithm using time series data from covid db
+- [x] Research implementation / Add heat mapping
+- [x] Have chosen libraries and functions for machine learning
+- [x] Have demonstrated a proof of concept with ML algorithm using time series data from covid db
 
 Ryan:
 - [ ] Research implementation / Add heat mapping
@@ -16,12 +16,12 @@ Emmet:
 - [ ] Enable project team user access for blog posts and comments
 
 Ben:
-- [ ] Have chosen libraries and functions for machine learning
-- [ ] Have demonstrated a proof of concept with ML algorithm using time series data from covid db
+- [x] Have chosen libraries and functions for machine learning
+- [x] Have demonstrated a proof of concept with ML algorithm using time series data from covid db
 
 Brian:
-- [ ] Have chosen libraries and functions for machine learning
-- [ ] Have demonstrated a proof of concept with ML algorithm using time series data from covid db
+- [x] Have chosen libraries and functions for machine learning
+- [x] Have demonstrated a proof of concept with ML algorithm using time series data from covid db
 
 ## week of Nov. 2 - Nov. 9
 all:
