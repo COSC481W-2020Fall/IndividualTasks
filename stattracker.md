@@ -1,15 +1,15 @@
 ## week of Nov. 9 - Nov. 16
 ### Domenic
-- [ ] Add navigation bar to the stat viewer page and a button to the stat viewer page get them connected with all the other pages (The navigation bars will have the new button for the new page and will be able to send you there on all the pages along with a new button on the home page that will direct you to our new page.)
+- [x] Add navigation bar to the stat viewer page and a button to the stat viewer page get them connected with all the other pages (The navigation bars will have the new button for the new page and will be able to send you there on all the pages along with a new button on the home page that will direct you to our new page.)
 
 ### Tristan
-- [ ] Create a feature to export deckcode from deckbuilder. (Create an action to export deckcode for the current deck in the deckbuilder page. This will allow users to import and export decks from runterra.)
+- [x] Create a feature to export deckcode from deckbuilder. (Create an action to export deckcode for the current deck in the deckbuilder page. This will allow users to import and export decks from runterra.)
 
 ### Kris
-- [ ] Create MySql database
-  - [ ] Create a mySql database, preparing to switch over our current database (which uses SQLite) to mySql
-  - [ ] Create and set up the server
-  - [ ] Look into how to connect it to aws
+- [x] Create MySql database
+  - [x] Create a mySql database, preparing to switch over our current database (which uses SQLite) to mySql
+  - [x] Create and set up the server
+  - [x] Look into how to connect it to aws
 
 ### Alex
 - [ ] display useful trends to user on page: comparing decks' win counts, comparing cards win counts
