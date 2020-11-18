@@ -35,7 +35,6 @@ Extra subtasks:
   - [ ] Remove “How it Works” page and add an updated version of that info (right now it's still about our prototype) to the homepage with our names and stuff
   - [ ] Add links to and explanations of main features to homepage (logs, recipes)
   - [ ] Add signup/login form to the homepage if you aren’t signed in
-    - [ ] Easiest way: Add UserCreationForm to context and template, then a button/link that says something like "Already have an account? Sign in here" that takes you to the login page
 
 ### Michael
 - [ ] Make column headers clickable in search recipe and search food to sort search results (User can order the search results by clicking the column headers)
