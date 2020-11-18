@@ -1,3 +1,24 @@
+## week of Nov. 16 - Nov. 30
+Brian
+- [ ] Expand the machine learning model to include additional features and/or additional variables such as countries, cases, deaths and correlated variables, eg GDP per capita, population density, stringency index
+
+Ben
+- [ ] Expand the machine learning model to include additional features and/or additional variables such as countries, cases, deaths and correlated variables, eg GDP per capita, population density, stringency index
+
+Chisulo
+- [ ] Revise database_handler.py script to ensure it uploads the data to the sqlite database
+- [ ] Pull recent version of the project to get latest features
+
+Jeff
+- [ ] Add heat map to website (Verify that heat maps display on page)
+
+Ryan
+- [ ] Add heat map to website (Verify that heat maps display on page)
+
+Emmt
+- [ ] Fix the comment functionality on blog posts
+
+
 ## week of Nov. 9 - Nov. 16
 Chisulo:
 - [x] Troubleshoot and fix issue with some country data not displaying in charts on AWS/SQLite platform
