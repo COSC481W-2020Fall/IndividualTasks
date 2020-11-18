@@ -3,7 +3,6 @@
 (Catch up on tasks) Page allows multiple decks to be viewed
 - [ ] Have interactive elements to allow the user to page between decks
 - [ ] Show graphs for multiple stats if needed
-
 - [ ] Display useful trends to user on page
 - [ ] Create meaningful information from the data collected (Does not have to be displayed to page yet)
 
