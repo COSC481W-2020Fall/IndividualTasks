@@ -6,6 +6,7 @@
     - [ ] Able to choose between multiple nutrients
     - [ ] Able to choose time span of current week, month, or year
     - [ ] Clicking on a marker takes you to detail page
+
 Extra subtasks:
 - Time span options include past 7 days or past 30 days
 - Display the "goal range" on the graph (depends on completion of others' tasks)
