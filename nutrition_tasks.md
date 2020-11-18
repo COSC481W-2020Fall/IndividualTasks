@@ -1,3 +1,56 @@
+## Week of Nov. 16 - Nov. 30
+### Athena
+- [ ] graphing logs
+  - [ ] Figure out asynchronous querying using JS-created http requests
+  - [ ] Line graph showing consumption of nutrients for each day (Chart.js)
+    - [ ] Able to choose between multiple nutrients
+    - [ ] Able to choose time span of current week, month, or year
+    - [ ] Clicking on a marker takes you to detail page
+Extra subtasks:
+- Time span options include past 7 days or past 30 days
+- Display the "goal range" on the graph (depends on completion of others' tasks)
+- (Unrelated to graph) Log detail page: add an "add log" button that auto-fills date field
+
+### Bryce
+- Recipe Cloning
+    - [ ] Have the fields of the clone page initialize to the source recipe's values
+    - [ ] Button available from detail view
+
+- Recipe Form
+    - [ ] Make it so that it isn't hard-coded which rows are cloned by the Add another Food button
+
+- Personal Recipe List
+    - [ ] Shows most of the information that the recipe search results manages to show
+
+- Foods show a list of recipes which contain them as an ingredient
+    - [ ] In the nutrifacts view, include a list of public recipes and personally owned recipes which contain that food as an ingredient
+    - [ ] Shows most of the information that the recipe search results manages to show
+
+### Tsion
+- Pi-chart modification
+  - [ ] Removing the sodium from the pie-chart
+  - [ ] Converting the rest of the nutrition fact from gram to calorie (Pie-chart will display the nutrifact in calorie)
+  - [ ] Add a form where user can add their daily calorie goal (User can be able to add their cal goal in their profile)
+- homepage revamp
+  - [ ] Remove “How it Works” page and add an updated version of that info (right now it's still about our prototype) to the homepage with our names and stuff
+  - [ ] Add links to and explanations of main features to homepage (logs, recipes)
+  - [ ] Add signup/login form to the homepage if you aren’t signed in
+    - [ ] Easiest way: Add UserCreationForm to context and template, then a button/link that says something like "Already have an account? Sign in here" that takes you to the login page
+
+### Michael
+- [ ] Make column headers clickable in search recipe and search food to sort search results (User can order the search results by clicking the column headers)
+- [ ] Search filter for food and recipe to search for food with calories between two amounts (User can input desired caloric range when searching food and recipes)
+- [ ] Search filter for recipe to search for recipe containing a specific food (User can search recipes that contain a specific food)
+
+### Jalen
+- front-end changes
+  - [ ] Re-color and/or re-arrange text fields that are difficult to see
+  - [ ] Resolve more html/css bugs 
+  
+### John
+- Remove ability to access recipe page when not logged in
+  - [ ] Recipe creator should require login to view. Currently it can be accessed but doesn't show any foods.
+  
 ## Week of Nov. 9 - Nov. 11
 ### Bryce
 - [x] Quality of life changes to recipes and foods
