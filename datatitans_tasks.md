@@ -1,6 +1,7 @@
 ## week of Nov. 16 - Nov. 30
 Brian
 - [ ] Expand the machine learning model to include additional features and/or additional variables such as countries, cases, deaths and correlated variables, eg GDP per capita, population density, stringency index
+- [ ] Revise database_handler.py script to ensure it uploads the data to the sqlite database
 
 Ben
 - [ ] Expand the machine learning model to include additional features and/or additional variables such as countries, cases, deaths and correlated variables, eg GDP per capita, population density, stringency index
