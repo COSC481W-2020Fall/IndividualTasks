@@ -9,31 +9,31 @@
 ### Tristan
 - [ ] Action dropdown resets every time you execute an action, it would be nice if it just stayed on the last one I picked. Same with the deck choice. (Create a last action, last deck selected option and set the dropdown menus to display these.)
 - [ ] Deck Builder (suggestion: users): When page is refreshed, “Select Deck” seems to default to most recent deck instead of deck that was just modified
-- [ ] Card count in deck shows as a decimal, I assume there’s no fractional card counts (Cast fractional card counts as int)
+- [x] Card count in deck shows as a decimal, I assume there’s no fractional card counts (Cast fractional card counts as int)
 
 ### Domenic
 General:
-- [ ] Text not behind a white background is slightly hard to see with some of the website background images
-- [ ] Potentially adding a how to play page to help assist people (like me) who don't know how to build a competent deck
-- [ ] Navbar (bug): Font and margins inconsistent across pages
+- [x] Text not behind a white background is slightly hard to see with some of the website background images
+- [x] Potentially adding a how to play page to help assist people (like me) who don't know how to build a competent deck
+- [x] Navbar (bug): Font and margins inconsistent across pages
 
 Data Input Page:
-- [ ] In DataInputpage - the font color is blended with the background color and hard to read
-- [ ] Entering invalid deck code on Data Input Page gets an internal server error
-- [ ] On data input page it would be nice to have a dropdown to select the deck built from the deck builder
-- [ ] And on data input page you could display win/loss
+- [x] In DataInputpage - the font color is blended with the background color and hard to read
+- [x] Entering invalid deck code on Data Input Page gets an internal server error
+- [x] On data input page it would be nice to have a dropdown to select the deck built from the deck builder
+- [x] And on data input page you could display win/loss
 
 ### Kris
-- [ ] Click the build deck without filling out the fields causes an internal error (create an error message)
-- [ ] You can add nonexistent cards (create error message)
-- [ ] Error when trying to add NaN to deck
-- [ ] Change cardCode to Card ID
-- [ ] Streamline building process
-  - [ ] Add search to the card list
-  - [ ] Put add button next to card in list
-  - [ ] Put delete button next to card in deck
-- [ ] General error messages
-- [ ] When selecting deck, show the deck name and not folder in file extension
+- [x] Click the build deck without filling out the fields causes an internal error (create an error message)
+- [x] You can add nonexistent cards (create error message)
+- [x] Error when trying to add NaN to deck
+- [x] Change cardCode to Card ID
+- [x] Streamline building process
+  - [x] Add search to the card list
+  - [x] Put add button next to card in list
+  - [x] Put delete button next to card in deck
+- [x] General error messages
+- [x] When selecting deck, show the deck name and not folder in file extension
 
 ## week of Nov. 9 - Nov. 16
 ### Domenic
