@@ -1,11 +1,11 @@
 ## Week of Nov. 16 - Nov. 30
 ### Athena
-- [ ] graphing logs
-  - [ ] Figure out asynchronous querying using JS-created http requests
-  - [ ] Line graph showing consumption of nutrients for each day (Chart.js)
-    - [ ] Able to choose between multiple nutrients
-    - [ ] Able to choose time span of current week, month, or year
-    - [ ] Clicking on a marker takes you to detail page
+- [x] graphing logs
+  - [x] Figure out asynchronous querying using JS-created http requests
+  - [x] Line graph showing consumption of nutrients for each day (Chart.js)
+    - [x] Able to choose between multiple nutrients
+    - [x] Able to choose time span of current week, month, or year
+    - [x] Clicking on a marker takes you to detail page
 
 Extra subtasks:
 - Time span options include past 7 days or past 30 days
@@ -29,9 +29,9 @@ Extra subtasks:
 
 ### Tsion
 - Pi-chart modification
-  - [ ] Removing the sodium from the pie-chart
-  - [ ] Converting the rest of the nutrition fact from gram to calorie (Pie-chart will display the nutrifact in calorie)
-  - [ ] Add a form where user can add their daily calorie goal (User can be able to add their cal goal in their profile)
+  - [x] Removing the sodium from the pie-chart
+  - [x] Converting the rest of the nutrition fact from gram to calorie (Pie-chart will display the nutrifact in calorie)
+  - [x] Add a form where user can add their daily calorie goal (User can be able to add their cal goal in their profile)
 - homepage revamp
   - [ ] Remove “How it Works” page and add an updated version of that info (right now it's still about our prototype) to the homepage with our names and stuff
   - [ ] Add links to and explanations of main features to homepage (logs, recipes)
@@ -39,8 +39,8 @@ Extra subtasks:
 
 ### Michael
 - [ ] Make column headers clickable in search recipe and search food to sort search results (User can order the search results by clicking the column headers)
-- [ ] Search filter for food and recipe to search for food with calories between two amounts (User can input desired caloric range when searching food and recipes)
-- [ ] Search filter for recipe to search for recipe containing a specific food (User can search recipes that contain a specific food)
+- [x] Search filter for food and recipe to search for food with calories between two amounts (User can input desired caloric range when searching food and recipes)
+- [x] Search filter for recipe to search for recipe containing a specific food (User can search recipes that contain a specific food)
 
 ### Jalen
 - front-end changes
@@ -49,7 +49,7 @@ Extra subtasks:
   
 ### John
 - Remove ability to access recipe page when not logged in
-  - [ ] Recipe creator should require login to view. Currently it can be accessed but doesn't show any foods.
+  - [x] Recipe creator should require login to view. Currently it can be accessed but doesn't show any foods.
   
 ## Week of Nov. 9 - Nov. 11
 ### Bryce
