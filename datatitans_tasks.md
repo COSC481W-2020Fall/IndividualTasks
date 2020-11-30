@@ -1,20 +1,20 @@
 ## week of Nov. 16 - Nov. 30
 Brian
-- [ ] Expand the machine learning model to include additional features and/or additional variables such as countries, cases, deaths and correlated variables, eg GDP per capita, population density, stringency index
-- [ ] Revise database_handler.py script to ensure it uploads the data to the sqlite database
+- [x] Expand the machine learning model to include additional features and/or additional variables such as countries, cases, deaths and correlated variables, eg GDP per capita, population density, stringency index
+- [x] Revise database_handler.py script to ensure it uploads the data to the sqlite database
 
 Ben
-- [ ] Expand the machine learning model to include additional features and/or additional variables such as countries, cases, deaths and correlated variables, eg GDP per capita, population density, stringency index
+- [x] Expand the machine learning model to include additional features and/or additional variables such as countries, cases, deaths and correlated variables, eg GDP per capita, population density, stringency index
 
 Chisulo
-- [ ] Revise database_handler.py script to ensure it uploads the data to the sqlite database
-- [ ] Pull recent version of the project to get latest features
+- [x] Revise database_handler.py script to ensure it uploads the data to the sqlite database
+- [x] Pull recent version of the project to get latest features
 
 Jeff
-- [ ] Add heat map to website (Verify that heat maps display on page)
+- [x] Add heat map to website (Verify that heat maps display on page)
 
 Ryan
-- [ ] Add heat map to website (Verify that heat maps display on page)
+- [x] Add heat map to website (Verify that heat maps display on page)
 
 Emmt
 - [ ] Fix the comment functionality on blog posts
@@ -31,8 +31,8 @@ Jeff:
 - [x] Have demonstrated a proof of concept with ML algorithm using time series data from covid db
 
 Ryan:
-- [ ] Research implementation / Add heat mapping
-- [ ] Confirm blog posts such as weekly meeting notes for Blog page are on server (AWS ideally; Google cloud if needed)
+- [x] Research implementation / Add heat mapping
+- [x] Confirm blog posts such as weekly meeting notes for Blog page are on server (AWS ideally; Google cloud if needed)
 
 Emmet:
 - [ ] Enable project team user access for blog posts and comments
