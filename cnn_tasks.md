@@ -1,10 +1,10 @@
 ## Nov. 16 - Nov. 30
 Karen and Baylie
-- [ ] Comments to android app code for the UI design
-- [ ] Implement Updated UI Features Outlined in Wireframe
+- [x] Comments to android app code for the UI design
+- [x] Implement Updated UI Features Outlined in Wireframe
 
 Junyao
-- [ ] train a new one that not predict anything a toy poodle (documentation of the performance of the new model)
+- [x] train a new one that not predict anything a toy poodle (documentation of the performance of the new model)
 
 
 ## Nov. 9 - Nov. 16
