@@ -4,7 +4,7 @@
 - [ ] Able to receive those var inputs and process
 - [ ] Does not limit fuctionality
 
-### Baylie & Karen
+### Baylie & Karen & Cassie
 - [ ] Upload a dog from the phone gallery to process through the server
 - [ ] Set up the app to send user permission selections back to the server
 - [ ] Add Android Studio Install Documentation to README
