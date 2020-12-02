@@ -1,3 +1,26 @@
+## week of Nov. 30 - Dec. 7
+### Alex
+(Catch up on tasks) Page allows multiple decks to be viewed
+- [ ] Have interactive elements to allow the user to page between decks
+- [ ] Show graphs for multiple stats if needed
+- [ ] Display useful trends to user on page
+- [ ] Create meaningful information from the data collected (Does not have to be displayed to page yet)
+
+### Kris
+- [ ] Streamline building process
+  - [ ] Add search to card list
+  - [ ] Put add button next to card in list
+  - [ ] Put delete button next to card in list
+  - [ ] Error when adding nonexistent cards
+  - [ ] Error when 'deckname' is not filled in (the other error messages work, that's the only field I couldn't get an error message for
+  - [ ] Clean up error message format
+  
+### Tristan
+- [ ] Dont allow cards to be added if they do not exist
+
+### Domenic
+- [ ] 
+
 ## week of Nov. 16 - Nov. 30
 ### Alex
 (Catch up on tasks) Page allows multiple decks to be viewed
