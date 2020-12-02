@@ -1,8 +1,7 @@
 ## Nov. 30 - Dec. 7
 ### Jacob
-- [ ] Add '/[VAR]' to url to allow settings without user accounts
-- [ ] Able to receive those var inputs and process
-- [ ] Does not limit fuctionality
+- [ ] Add /correction
+- [ ] Add JSON parsing of image name and correction
 
 ### Baylie & Karen & Cassie
 - [ ] Upload a dog from the phone gallery to process through the server
