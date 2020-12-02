@@ -1,3 +1,75 @@
+## Week of Nov. 30 - Dec. 7
+### Athena
+Refine log graph/list page
+- [ ] Add goal range to graph with legend
+- [ ] Add average daily intake of selected nutrient for selected time period as title of graph
+- [ ] Only list logs for current month, can select past months
+
+### Jalen
+Navigation bar update
+Regardless
+- [ ] Logo linking to homepage {% url 'nutrihacker:index' %}
+- [ ] Search bar (via a form)
+
+If not logged in
+- [ ] Login {% url 'nutrihacker:login' %}
+- [ ] Register {% url 'nutrihacker:register_account' %}
+
+If logged in
+- [ ] My Logs {% url 'nutrihacker:log_list' %}
+   * New Log {% url 'nutrihacker:log_create' %}
+   * Today's Log (not yet implemented, might not implement, would possibly only appear in the expando in the case of there already being a daily log for the current day)
+- [ ] My Recipes {% url 'nutrihacker:list_recipe' %}
+   * New Recipe {% url 'nutrihacker:create_recipe' %}
+- [ ] Profile {% url 'nutrihacker:profile' %}
+   * Diet and Allergies {% url 'nutrihacker:diet_and_allergies' %}
+   * Update Profile {% url 'nutrihacker:update_profile' %}
+   * Change Password {% url 'nutrihacker:change_password' %}
+- [ ] Logout {% url 'nutrihacker:logout' %}
+
+### John
+- [ ] Fix issue where multiple items have the same name in database.
+
+### Bryce
+Recipe form:
+- [ ] Finally do the hard coding thing for the recipe form
+
+Nutrifacts:
+- [ ] Show how many portions of the food are included per batch of the recipe
+
+Recipe detail:
+- [ ] Pi chart identical to the nutrifacts page
+
+Recipe Cloning:
+- [ ] Make the diet and allergies copy over smoothly
+
+Recipe List:
+- [ ] Remove "Created by" column because the page is specifically for personal recipes
+- [ ] Add column for servings produced
+
+* Check in with Michael Neet on whether the stuff he's doing with the Recipe/RecipeFood relationship is breaking any recipe stuff I've worked on in the past
+
+### Tsion
+- [ ] User can set a profile picture 
+> - [ ] the ability to upload picture from their desktop....
+> - [ ] If the user chose not to upload, he/she can choose icon (character, female, male...)
+- Homepage revamp
+- [ ] Remove “How it Works” page and add an updated version of that info (right now it's still about our prototype) to the homepage with our names and stuff
+- [ ] Add links to and explanations of main features to homepage (logs, recipes)
+- [ ] Add signup/login form to the homepage if you aren’t signed in
+    - [ ] Easiest way: Add UserCreationForm to context and template, then a button/link that says something like "Already have an account? Sign in here" that takes you to the login page
+
+### Michael
+More Search Additions
+- [ ] Fix changing pages with recipe search filters
+- [ ] Ordering search results in descending order as well as ascending
+- [ ] Add ManyToMany field to Recipe model with Food using RecipeFood as 'through' model so Django knows about this relationship
+- [ ] Order recipe search by calories
+- [ ] Filter recipe search by calorie range
+- [ ] Change diet and allergy recipe filters to a dropdown menu with checkboxes
+- [ ] Change food search filter to allow for filtering for a range in any field, not just calories, and allow for multiple filters
+
+
 ## Week of Nov. 16 - Nov. 30
 ### Athena
 - [x] graphing logs
