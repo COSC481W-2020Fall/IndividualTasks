@@ -1,3 +1,26 @@
+## week of Nov. 30 - DEc. 7
+Jeff
+[ ] Have heat map scaled to better fit window (eg iframe) 
+[ ] Have the ability to choose between different data types, eg total cases, total deaths
+
+Ryan
+[ ] Have heat map scaled to better fit window (eg iframe) 
+[ ] Have the ability to choose between different data types, eg total cases, total deaths
+
+Chisulo
+[ ] Clicking on user on About Us page pulls up all blogs by that user
+
+Ben
+[ ] Have the machine learning algorithm pull data from the dataframe
+[ ] Optimize algorithm to produce results in hours (not days or weeks) by improving code or limiting input rows
+
+Brian
+[ ] Have the machine learning algorithm pull data from the dataframe
+[ ] Optimize algorithm to produce results in hours (not days or weeks) by improving code or limiting input rows
+
+Emmet
+[ ] Move main data for charts and graphs into parquet or other dataframe-friendly type
+
 ## week of Nov. 16 - Nov. 30
 Brian
 - [x] Expand the machine learning model to include additional features and/or additional variables such as countries, cases, deaths and correlated variables, eg GDP per capita, population density, stringency index
