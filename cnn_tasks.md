@@ -1,3 +1,18 @@
+## Nov. 30 - Dec. 7
+### Jacob
+- [ ] Add '/[VAR]' to url to allow settings without user accounts
+- [ ] Able to receive those var inputs and process
+- [ ] Does not limit fuctionality
+
+### Baylie & Karen
+- [ ] Upload a dog from the phone gallery to process through the server
+- [ ] Set up the app to send user permission selections back to the server
+- [ ] Add Android Studio Install Documentation to README
+- [ ] Add CNN application Install Documentation to README
+
+### Junyao
+- [ ] The server could output the top three possible predictions in case the dog in the image is mixed-breed.
+
 ## Nov. 16 - Nov. 30
 Karen and Baylie
 - [x] Comments to android app code for the UI design
