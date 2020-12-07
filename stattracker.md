@@ -16,10 +16,10 @@
   - [ ] Clean up error message format
   
 ### Tristan
-- [ ] Dont allow cards to be added if they do not exist
+- [x] Dont allow cards to be added if they do not exist
 
 ### Domenic
-- [ ] bug fixes (need to be more specific)
+- [x] bug fixes (need to be more specific)
 
 ## week of Nov. 16 - Nov. 30
 ### Alex
