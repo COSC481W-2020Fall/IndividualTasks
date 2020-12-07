@@ -1,13 +1,13 @@
 ## Nov. 30 - Dec. 7
 ### Jacob
-- [ ] Add /correction
-- [ ] Add JSON parsing of image name and correction
+- [x] Add /correction
+- [x] Add JSON parsing of image name and correction
 
 ### Baylie & Karen & Cassie
-- [ ] Upload a dog from the phone gallery to process through the server
-- [ ] Set up the app to send user permission selections back to the server
-- [ ] Add Android Studio Install Documentation to README
-- [ ] Add CNN application Install Documentation to README
+- [x] Upload a dog from the phone gallery to process through the server
+- [x] Set up the app to send user permission selections back to the server
+- [x] Add Android Studio Install Documentation to README
+- [x] Add CNN application Install Documentation to README
 
 ### Junyao
 - [ ] The server could output the top three possible predictions in case the dog in the image is mixed-breed.
